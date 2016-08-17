@@ -1,0 +1,25 @@
+# hough detector
+# Jacob Fionn
+
+
+DEPENDENCIES
+
+- this assigment uses OPENCV. If you need to install OPENCV I've included a shell script which will install all necessary file on your computer called install_opencv.sh
+
+
+COMPILATION
+
+- to compile the code run the command found in the run.txt file.
+
+TO RUN CODE
+
+./main 
+
+PLEASE NOTE
+
+I haven't included a useful interface, so 
+
+
+CONTACT
+
+jacobfionngoldberg@gmail.com if there are any problems  
